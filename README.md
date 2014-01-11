@@ -1,10 +1,10 @@
-perl-tcp-proxy
+ptcproxy
 ----------------
 
 Name
 =====
 
-    perl-tcp-proxy - a TCP proxy in Perl for various testing purpose.
+    ptcproxy - a TCP proxy in Perl for various testing purpose.
 
 Description
 ============
