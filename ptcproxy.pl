@@ -1,10 +1,9 @@
 #!/usr/bin/perl
-#======================================================================
-# I forked it, then heavily changed it, and added some feature ported 
-# from a tcp proxy in Erlang[https://github.com/chaoslawful/etcproxy].
-#
-# Feng Gu <flygoast@126.com>
-#======================================================================
+
+#=============================================================================
+# Ported from a tcp proxy in Erlang[https://github.com/chaoslawful/etcproxy].
+# Author: FengGu <flygoast@126.com>
+#=============================================================================
 
 use warnings;
 use strict;
